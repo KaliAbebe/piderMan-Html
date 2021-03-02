@@ -1,0 +1,22 @@
+{
+  "name": "spidermanhtml",
+  "version": "1.0.0",
+  "description": "spiderMan web Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaliAbebe/piderMan-Html.git"
+  },
+  "keywords": [
+    "spiderman"
+  ],
+  "author": "Kalkidan Abebe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaliAbebe/piderMan-Html/issues"
+  },
+  "homepage": "https://github.com/KaliAbebe/piderMan-Html#readme"
+}
